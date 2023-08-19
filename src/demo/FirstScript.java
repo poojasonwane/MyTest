@@ -21,7 +21,7 @@ public class FirstScript
 		WebDriver d1 = new ChromeDriver();
 		
 	//Navigate to url
-		d1.get("https://www.facebook.com/");
+		d1.get("https://www.google.com/");
 		
 		//maximize window
 		d1.manage().window().maximize();
